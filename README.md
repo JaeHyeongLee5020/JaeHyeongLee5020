@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @JaeHyeongLee5020
+## 👋 Hi, I’m Jae
 
 - 👀 I’m interested in **Programming** and **Golf ⛳️** 
 - 🌱 I’m currently learning **Spring Boot, Firebase, and advanced computer vision techniques using Python**
