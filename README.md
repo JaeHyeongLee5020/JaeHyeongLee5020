@@ -6,7 +6,7 @@
   - 🔒 Crime behavior detection using CCTV footage
   - 🚗 Smart parking app with real-time reservation and accident alerts
   - 📱 Android app integrated with Firebase for authentication and data management
-- 📫 How to reach me: **jaehyeong5020@gmail.com** or Instagram [sky__2_jh](https://www.instagram.com/jn_mully)
+- 📫 How to reach me: **jaehyeong5020@gmail.com** or Instagram [jn_mully](https://www.instagram.com/jn_mully)
 - 😄 Pronouns: **He/Him**
 
 <!---
