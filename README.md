@@ -29,9 +29,9 @@
 
 ### 📫 같이 커피 한잔 어떠세요?
 
-기술, 골프, 아니면 그냥 재밌는 아이디어, 어떤 주제든 좋습니다. 편하게 이야기 나눠요!
+취업, 코딩기술, 골프, 아니면 그냥 재밌는 아이디어, 어떤 주제든 좋습니다. 편하게 연락주세요~!
 
-- **Email**: `jaehyeong5020@gmail.com`
+- **Email**: `lt5020@naver.com`
 - **Instagram**: [jn._.ol](https://www.instagram.com/jn._.ol/)
 
 ---
