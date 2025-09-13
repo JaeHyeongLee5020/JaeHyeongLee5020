@@ -4,26 +4,26 @@
 
 ---
 
-### 🌱 요즘 나의 기술들
+### ✨ 기술 스택
 
-'이 기술로 어떤 재밌는 걸 만들 수 있을까?' 하는 호기심으로 새로운 것들을 배우고 있습니다.
+저는 다음과 같은 기술을 활용하여 프로젝트를 구현합니다.
 
-- **Spring Boot**: 애플리케이션의 튼튼한 뼈대를 만드는 백엔드 개발에 매력을 느낍니다. 안정적인 서비스를 위한 기본기를 다지며, 더 큰 트래픽도 감당할 수 있는 구조를 고민하고 있습니다.
-- **Kotlin & Android**: 제 손으로 만든 앱이 누군가의 스마트폰에서 움직이는 것만큼 짜릿한 경험은 없는 것 같아요. 더 깔끔하고 직관적인 모바일 경험을 만드는 법을 익히고 있습니다.
-- **Firebase**: '일단 만들어보자!'를 가능하게 해주는 가장 빠른 방법이라고 생각해요. 복잡한 인프라 걱정 없이 아이디어 구현 자체에만 집중할 수 있게 해주는 고마운 도구입니다.
-- **AI & Computer Vision**: 컴퓨터에게 '보는 법'을 가르치는 일에 푹 빠져있습니다. 카메라 너머의 세상을 데이터로 이해하고 새로운 가치를 찾아내는 과정이 언제나 흥미롭습니다.
-
----
+-   **언어:** `Java`, `Kotlin`, `Python`, `JavaScript`, `HTML`, `SQL`
+-   **프레임워크:** `Spring Boot`, `Spring Framework`, `Node.js`
+-   **데이터베이스:** `Oracle`, `Firebase` 
+-   **도구 & 라이브러리:** `MyBatis`, `JPA`, `API`
+-   **모바일:** `Android (Kotlin)`, `iOS`
+-   **기타:** `Microsoft Office`
 
 ### 💡 아이디어를 현실로 만든 경험
 
-- **'MediGPT' | AI 의학 정보 챗봇**
-  - **Story**: '몸이 아플 때 어려운 의학 정보 말고, 바로바로 알아들을 수 있는 설명이 있으면 어떨까?' 하는 생각에서 출발했어요. 누구나 전문가처럼 쉽게 정보를 얻는 경험을 만들고 싶었습니다.
-  - **Tech**: `NLP`, `GPT-3.5 API`, `Spring Boot`, `Firebase`, `KakaoPay API`, `Android Studio(Kotlin)`, `Swift(IOS)`
-
 - **'ParkLogic Solution' | AI 스마트 주차 시스템**
   - **Story**: 주차 공간을 찾는 번거로움, 차 사고에 대한 불안감. 주차장에서 겪는 모든 불편함을 기술로 해결하고 싶었습니다. 실시간 예약의 편리함에 더해, AI 영상 분석으로 안전까지 챙겼습니다.
-  - **Tech**: `Python`, `OpenCV`, `YOLOv5`, `TensorFlow`, `Firebase`, `Google Maps API`, `Android Studio(Kotlin)`
+  - **Tech**: `Python`, `Java`, `JavaScript`, `OpenCV`, `YOLOv5`, `TensorFlow`, `Firebase`, `Maps API`, `Android Studio(Kotlin)`
+
+- **'MediGPT' | AI 의학 정보 챗봇**
+  - **Story**: '몸이 아플 때 어려운 의학 정보 말고, 바로바로 알아들을 수 있는 설명이 있으면 어떨까?' 하는 생각에서 출발했어요. 누구나 전문가처럼 쉽게 정보를 얻는 경험을 만들고 싶었습니다.
+  - **Tech**: `Java`, `HTML`, `SQL`, `Spring Boot`, `Firebase`,`Oracle`, `GPT API`, `KakaoPay API`, `Android Studio(Kotlin)`, `Swift(IOS)`
 
 ---
 
