@@ -21,8 +21,8 @@
   - **Story**: 주차 공간을 찾는 번거로움, 주차장에서 겪는 차량 사고와 범죄에 대한 불안감과 같은 불편함을 기술로 해결하고 싶었습니다. 실시간 예약의 편리함에 더해, AI 영상 분석으로 안전까지 챙겼습니다.
   - **Tech**: `Python`, `Java`, `JavaScript`, `OpenCV`, `YOLOv5`, `TensorFlow`, `Firebase`, `Maps API`, `AndroidStudio(Kotlin)`
 
-- **'MediGPT' | AI 의학 정보 챗봇**
-  - **Story**: '몸이 아플 때 어려운 의학 정보 말고, 바로바로 알아들을 수 있는 설명이 있으면 어떨까?' 하는 생각에서 출발했어요. 누구나 전문가처럼 쉽게 정보를 얻는 경험을 만들고 싶었습니다.
+- **'MediGPT' | AI 기반 의약품 상담 및 구매 서비스**
+  - **Story**: 병원 방문의 어려움을 해결하기 위해, 비대면으로 진료를 받고 약을 처방받을 수 있는 방법을 고민하다가 이 서비스를 떠올렸어요. 누구나 전문가처럼 쉽게 의학정보를 얻는 경험을 만들고 싶었습니다.
   - **Tech**: `Java`, `HTML`, `SQL`, `Spring Boot`, `Firebase`,`Oracle`, `GPT-3.5`, `KakaoPay API`, `AndroidStudio(Kotlin)`, `Swift(IOS)`
 
 ---
