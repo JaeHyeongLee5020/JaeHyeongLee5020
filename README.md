@@ -8,11 +8,11 @@
 
 저는 다음과 같은 기술을 활용하여 프로젝트를 구현합니다.
 
--   **언어:** `Java`, `Kotlin`, `Python`, `JavaScript`, `HTML`, `SQL`,`C`
--   **프레임워크:** `Spring Boot`, `Spring Framework`, `Node.js`
+-   **언어:** `Java`, `Python`, `JavaScript`, `Kotlin`, `SQL`,`C`
+-   **프레임워크 & 런타임 환경:** `Spring Boot`, `Spring Framework`, `Node.js`
 -   **데이터베이스:** `Oracle`, `Firebase` 
 -   **도구 & 라이브러리:** `MyBatis`, `JPA`, `API`
--   **모바일:** `Android (Kotlin)`, `iOS`
+-   **모바일:** `AndroidStudio`, `IOS`
 -   **기타:** `Microsoft Office`
 
 ### 💡 아이디어를 현실로 만든 경험
